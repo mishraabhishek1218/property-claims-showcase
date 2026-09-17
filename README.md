@@ -1,5 +1,7 @@
 # Property Claims Solution (Showcase)
 
+> Part of [`insurance-ai-lab`](https://github.com/mishraabhishek1218/insurance-ai-lab) — AI Claims Command Center (⭐ P0).
+
 **This is a trimmed, public showcase of a proprietary product.** Full source is private. This repo contains architecture notes, a demo link, and illustrative code snippets only — not the working application. See [LICENSE.md](./LICENSE.md).
 
 An AI-native claims platform for residential property insurance.
